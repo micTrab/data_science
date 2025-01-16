@@ -1,7 +1,7 @@
 # data_science
 A portfolio blending my VFX background with data science skills. Features projects on data analysis, regression, and classification, plus creative applications for virtual environments. Proficient in Python, SQL, and data visualization, with a focus on storytelling and innovation.
 
-# ENIAC Project 1 - Brazilian Market Analysis
+# ENIAC Project One - Brazilian Market Analysis
 
 ## Overview
 ENIAC plans to expand into Brazil's growing e-commerce market but lacks local knowledge and supply chain infrastructure. To address this, ENIAC is considering a 3-year partnership with Magist, a Brazilian SaaS company offering marketplace integration and supply chain services. This project evaluates Magist's suitability.
